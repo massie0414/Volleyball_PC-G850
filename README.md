@@ -5,7 +5,7 @@ BASICで作成
 PC-G850VSで動作確認済み。  
 （ほかの機種では動作未確認）
 
-![](https://github.com/massie0414/Volleyball_PC-G850/blob/master/img/volleyball_01.png)  
+![](https://github.com/massie0414/Volleyball_PC-G850/blob/master/img/volleyball_01.png)    
 タイトル画面です。  
 「1」キーでゲームスタート  
 「2」キーでセーブデータをリセット  
